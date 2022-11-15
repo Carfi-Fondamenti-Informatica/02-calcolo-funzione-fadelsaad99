@@ -1,9 +1,10 @@
+#include <iostream>
 using namespace std;
 
 int main() {
-    float a, b, x, y, z;
+    float a=0, b=0, x=0, y=0;
 
-    cout<<"metti i valori di a, b, x e y !"<<endl;
+    cout<<"metti i valori di a, b, x e y"<<endl;
     cin>>a;
     cin>>b;
     cin>>x;
